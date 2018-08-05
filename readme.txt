@@ -1,4 +1,5 @@
 test
 test1
-fight!
+test2
+fight!!
 end
